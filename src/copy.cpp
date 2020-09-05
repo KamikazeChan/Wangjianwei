@@ -1,5 +1,5 @@
 //
-// Created by ³ÂÅæÄĞ on 5/9/2020.
+// Created by chaox on 5/9/2020.
 //
 
 #include "copy.h"
@@ -8,6 +8,7 @@
 using namespace std;
 
 int main() {
-    int a;
-    return 0;
+    Box A(32131,43242,3231313);
+    Box B(1,2);
+    cout << A.height << endl;
 }
